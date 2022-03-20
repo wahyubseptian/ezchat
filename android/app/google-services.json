@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690591637821",
+    "project_id": "ezchat-net",
+    "storage_bucket": "ezchat-net.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690591637821:android:5e6c4c3c42c85e9fe9a554",
+        "android_client_info": {
+          "package_name": "com.example.ezchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690591637821-dddhkspm1ojdb774sota0e9bpujuc4cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezchat",
+            "certificate_hash": "7ab00b54087cec37a3102d767b626777853157e0"
+          }
+        },
+        {
+          "client_id": "690591637821-8i08g8a36s53j5hft43shqnrvrrjmtpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe7eVpvboelI6zkknxdzE17p4B8uVrJ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690591637821-8i08g8a36s53j5hft43shqnrvrrjmtpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
